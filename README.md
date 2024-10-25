@@ -5,3 +5,4 @@ Chapters covered till now
 3) Data types in python 
 4) Type Casting in python
 5) Operators in python
+6) Lists in python
