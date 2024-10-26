@@ -6,3 +6,4 @@ Chapters covered till now
 4) Type Casting in python
 5) Operators in python
 6) Lists in python
+7) Tuples in Python
