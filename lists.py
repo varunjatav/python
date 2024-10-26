@@ -190,11 +190,11 @@ print(number)
 
 # customize sort function
 
-def Sorting(n):
-   return abs(n - 50)
-thisList = [100,42,54,50,12,23,89]
-thisList.sort(key = Sorting)
-print(thisList)
+#def Sorting(n):
+   #return abs(n - 50)
+#thisList = [100,42,54,50,12,23,89]
+#thisList.sort(key = Sorting)
+#print(thisList)
 
 #sort is case insensitive
 fruits = ["apple", "Orange", "banana", "Pineapple"]
@@ -232,3 +232,21 @@ print("third list",thirdList)
 # by using slice operator
 fourthList = yourList[:]
 print("fourth List",fourthList)
+
+#Join two lists
+# + operator
+list1 = ["a", "b", "c"]
+list2 = [1,2,3]
+#print(list1+list2)
+
+
+#join list 2 to list 1 one by one
+
+#for i in list2:
+#  list1.append(i)
+
+#print(list1)
+
+#by using extend method
+#list1.extend(list2)
+#print(list1)
