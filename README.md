@@ -7,3 +7,4 @@ Chapters covered till now
 5) Operators in python
 6) Lists in python
 7) Tuples in Python
+8) Sets in Python
